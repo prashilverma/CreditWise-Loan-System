@@ -1,4 +1,4 @@
-# CreditWise Loan Approval Prediction
+# CreditWise Loan System
 
 ## roject Overview
 
