@@ -1,0 +1,14 @@
+﻿# Datasets
+*.csv
+
+# Model files
+*.pkl
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+
+ship_cast.ipynb
+app.py
