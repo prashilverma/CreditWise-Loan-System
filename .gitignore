@@ -10,6 +10,4 @@
 # Python cache
 __pycache__/
 
-credit_wise.ipynb
 app.py
-README.md
