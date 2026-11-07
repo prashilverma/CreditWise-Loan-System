@@ -10,5 +10,6 @@
 # Python cache
 __pycache__/
 
-ship_cast.ipynb
+credit_wise.ipynb
 app.py
+README.md
